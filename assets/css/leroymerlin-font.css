@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Leroy-Merlin-Sans-Regular";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://s2.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-Regular._r0bf2a5c63ddb1_.eot");
+  src: url("https://s2.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-Regular._r0bf2a5c63ddb1_.eot?#iefix") format("embedded-opentype"), url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-Regular._r0b53c5c63ddb1_.woff") format("woff");
+}
+@font-face {
+  font-family: "Leroy-Merlin-Sans-Light";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://s2.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-Light._r0bff25c63ddb1_.eot");
+  src: url("https://s2.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-Light._r0bff25c63ddb1_.eot?#iefix") format("embedded-opentype"), url("https://s2.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-Light._r0b6405c63ddb1_.woff") format("woff");
+}
+@font-face {
+  font-family: "Leroy-Merlin-Sans-SemiBold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-SemiBold._r02bfd45c63ddb1_.eot");
+  src: url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-SemiBold._r02bfd45c63ddb1_.eot?#iefix") format("embedded-opentype"), url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinSans/LeroyMerlinSans-Web-SemiBold._r0b87c5c63ddb1_.woff") format("woff");
+}
+@font-face {
+  font-family: "Leroy-Merlin-Script-Regular";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinScript/leroymerlinscript-webfont._r0426725c63ddb1_.eot");
+  src: url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinScript/leroymerlinscript-webfont._r0426725c63ddb1_.eot?#iefix") format("embedded-opentype"), url("https://s1.lmcdn.fr/8.120.1/fonts/desktop/leroyMerlinScript/leroymerlinscript-webfont._r01da045c63ddb1_.woff") format("woff");
+}
+.Leroy-Merlin-Sans-Regular {
+  font-family: "Leroy-Merlin-Sans-Regular";
+}
+.Leroy-Merlin-Sans-Light {
+  font-family: "Leroy-Merlin-Sans-Light";
+}
+.Leroy-Merlin-Sans-SemiBold {
+  font-family: "Leroy-Merlin-Sans-SemiBold";
+}
+.Leroy-Script-Sans-Regular {
+  font-family: "Leroy-Merlin-Script-Regular";
+}

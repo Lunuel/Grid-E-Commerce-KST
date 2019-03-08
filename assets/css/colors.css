@@ -1,0 +1,13 @@
+:root {
+  --blue: #488cff;
+  --blue-light: #66d0ff;
+  --grey-dark:#2d3641;
+  --grey-blue:#607d8b;
+  --grey-light:#2d36413b;
+
+  --first-color:#FFF;
+  --second-color:#FFF;
+  --third-color:#FFF;
+}
+
+.bg-blue-t {background-color: #45b3e461;}
